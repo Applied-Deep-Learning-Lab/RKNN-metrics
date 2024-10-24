@@ -1,0 +1,16 @@
+{
+    "OBJ_THRESH": 0.3,
+    "NMS_THRESH": 0.5,
+    "IMG_SIZE": [960, 960],
+    "CLASSES": {
+        "0": "bike",
+        "1": "bus",
+        "2": "car",
+        "3": "construction equipment",
+        "4": "emergency",
+        "5": "motorbike",
+        "6": "personal mobility",
+        "7": "quadbike",
+        "8": "truck"
+    }
+}
